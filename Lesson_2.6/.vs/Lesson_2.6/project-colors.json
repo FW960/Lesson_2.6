@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c87818ee-a8f9-467d-816b-4614f4d8de2e": {
+      "ProjectGuid": "c87818ee-a8f9-467d-816b-4614f4d8de2e",
+      "DisplayName": "Lesson_2.6",
+      "ColorIndex": 0
+    },
+    "825e2346-02ea-4932-949c-5a303d3c8176": {
+      "ProjectGuid": "825e2346-02ea-4932-949c-5a303d3c8176",
+      "DisplayName": "Test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
